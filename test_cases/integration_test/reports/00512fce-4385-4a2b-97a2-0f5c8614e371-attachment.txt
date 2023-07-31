@@ -1,0 +1,5 @@
+your token 3df7b106db62113
+it is your booking id--> 2514
+200
+{'firstname': 'Nithya', 'lastname': 'nith', 'totalprice': 143, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}
+This is your updated_name --> Nithya

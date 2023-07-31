@@ -1,0 +1,5 @@
+{
+  "url": "https://beta-restful-booker.herokuapp.com/booking",
+  "env": "beta",
+  "stage": 1
+}

@@ -1,0 +1,5 @@
+{
+  "url": "https://prod-restful-booker.herokuapp.com/booking",
+  "env": "prod",
+  "stage": 2
+}

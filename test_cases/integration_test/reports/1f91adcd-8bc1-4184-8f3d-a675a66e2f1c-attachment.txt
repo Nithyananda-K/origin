@@ -1,0 +1,4 @@
+your token c34bd1f6aee95cd
+it is your booking id--> 2493
+201
+deleted your id <bound method TestIntegration.test_create_booking_tc02 of <test_cases.integration_test.test_create_booking_1.TestIntegration object at 0x0000022BA76FC750>>
